@@ -4,7 +4,7 @@
  */
 package dsa.berce;
 
-public class DSABerce {
+public class ArrayQueue {
 
     private int capacity; 
     private int[] queue;
